@@ -5,3 +5,4 @@ echo "# CSPSSL23" >> README.md
   git branch -M main
   git remote add origin https://github.com/DeadpriZma/CSPSSL23.git
   git push -u origin main
+  
