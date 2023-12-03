@@ -13,3 +13,4 @@ def plot_sine_wave(frequency=1, duration=1, sampling_rate=1000):
 
 if __name__ == "__main__":
     plot_sine_wave()
+ 
